@@ -1,6 +1,8 @@
 # froala-editor-jest-issue
 Repro of an issue where Froala Editor cannot be rendered in Jest.
 
+See https://github.com/froala/wysiwyg-editor/issues/3504
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Run:
